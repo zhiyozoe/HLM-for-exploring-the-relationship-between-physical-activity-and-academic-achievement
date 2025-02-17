@@ -29,3 +29,4 @@ Objectives and methods
   | **Country Level (between country; n=52)** | |
   | Log GDP per capita | [World Bank](https://data.worldbank.org) |
   | Sport success | [World Ranking of Countries in Elite Sports System (WRCES)](https://sportsrankings.world/rankings) |
+- See HLM operation process.pdf for the specific data operation process.
