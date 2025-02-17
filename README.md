@@ -10,4 +10,22 @@ Objectives and methods
 - Software: SPSS 26 for data preparation; HLM6 for multilevel linear regression
 ## Data description
 - Variables and access to data
-  - 
+  | Variables | Data link |
+  |-----------|-----------|
+  | **Student Level (within school; n=368,049)** | |
+  | Family ESCS | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | Gender | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | Participation in physical education lessons | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | Moderate physical activity outside of school | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | Vigorous physical activity outside of school | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | Exercise before going to school | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | Exercise after leaving school | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | **School Level (between school; n=13,591)** | |
+  | School size | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | Class size | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | Student-Teacher ratio |[PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | Physical education lessons in school | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | Extracurricular physical activity | [PISA 2015](https://www.oecd.org/en/data/datasets/pisa-2015-database.html) |
+  | **Country Level (between country; n=52)** | |
+  | Log GDP per capita | [World Bank](https://data.worldbank.org) |
+  | Sport success | [World Ranking of Countries in Elite Sports System (WRCES)](https://sportsrankings.world/rankings) |
